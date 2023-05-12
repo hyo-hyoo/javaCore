@@ -22,6 +22,7 @@ public class EmployeeTest {
         System.out.println("hello!");
         System.out.println("hello!2");
         System.out.println("hello!3");
+        System.out.println("hot-fix test");
 
 /*
         for (Employee e : staff) {
