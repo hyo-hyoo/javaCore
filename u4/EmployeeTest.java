@@ -20,6 +20,7 @@ public class EmployeeTest {
         int n = Employee.getNextId();
         System.out.println("Next available id=" + n);
         System.out.println("hello!");
+        System.out.println("hello!2");
 
 /*
         for (Employee e : staff) {
